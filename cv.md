@@ -24,3 +24,26 @@ Working with the latest SAP technologies on a global scale and assisting busines
  - GIT: GitHub, GitLab
  - IDE: VScode
  - SAP: SAP/S4, SAP TM, ABAP
+ 
+## Projects
+
+### <span> [Weather App](https://github.com/FableII/Weather-App-1) </span> <span>Dec 2019</span>
+
+A Weather application that show you weather in different cities :
+
+   - Built by me with youtube tutorials
+   - Using modern JS framework such as React
+   
+## Education
+
+### <span>Voronezh State University, BA Physics</span> <span>2014 -- 2018</span>
+### <span>Voronezh State University, MSc Physics</span> <span>2018 -- 2020</span>
+
+## Language
+- Russia: Native
+- English: B1
+- German: A1
+
+
+
+
