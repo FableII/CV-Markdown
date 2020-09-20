@@ -40,7 +40,7 @@ A Weather application that show you weather in different cities :
 ### <span>Voronezh State University, MSc Physics</span> <span>2018 -- 2020</span>
 
 ## Language
-- Russia: Native
+- Russian: Native
 - English: B1
 - German: A1
 
