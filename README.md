@@ -1,3 +1,3 @@
 # CV
 
-[Open] (https://fableii.github.io/CV-Markdown/)
+[Open](https://fableii.github.io/CV-Markdown/ "CV")
