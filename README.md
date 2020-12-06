@@ -1,2 +1,2 @@
 # CV
-https://fableii.github.io/rsschool-cv/
+https://fableii.github.io/cv/
