@@ -1,2 +1,2 @@
 # CV
-https://fableii.github.io/cv/
+https://fableii.github.io/CV-Markdown/
